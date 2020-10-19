@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gist.github.com/7b3de965780f30fc9f6340a6830ad2c9](https://gist.github.com/7b3de965780f30fc9f6340a6830ad2c9)
 
-- 📝 I regulary write articles on [https://benknoble.github.io/about/](https://benknoble.github.io/about/)
+- 📝 I regulary write articles on [https://benknoble.github.io/](https://benknoble.github.io/)
 
 - 💬 Ask me about **vim, git**
 
