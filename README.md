@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [projects like these](https://gist.github.com/7b3de965780f30fc9f6340a6830ad2c9)
 
-- 🌱 I’m currently learning **dafny, the verifying compiler**
+- 🌱 I’m currently learning **formal verification (Coq, Dafny)**
 
 - 👯 I’m looking to collaborate on **languages, type systems, vim**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gist.github.com/7b3de965780f30fc9f6340a6830ad2c9](https://gist.github.com/7b3de965780f30fc9f6340a6830ad2c9)
 
-- 📝 I regulary write articles on [https://benknoble.github.io/](https://benknoble.github.io/)
+- 📝 I write articles on [https://benknoble.github.io/](https://benknoble.github.io/)
 
 - 💬 Ask me about **vim, git**
 
